@@ -110,7 +110,7 @@ cd Network-Sniffer
 
 pip install -r requirements.txt
 
-python sniffer.py
+sudo python sniffer.py
 ```
 
 ---
